@@ -35,4 +35,4 @@ For any inquiries or questions, please don't hesitate to reach out to Jaikumar a
 We welcome contributions! Whether you have suggestions, identified issues, or wish to submit pull requests, your input is appreciated. Feel free to engage with us to enhance and refine the Music Recommendation System.
 
 Contact
-For any inquiries or questions, please don't hesitate to reach out to Jaikumar at buddijaikumar06@gmail.com. Your feedback and queries are important to us as we continue to refine and optimize our recommendation system.
+For any inquiries or questions, please don't hesitate to reach out to Jaikumar at kavyachippada@gmail.com. Your feedback and queries are important to us as we continue to refine and optimize our recommendation system.
